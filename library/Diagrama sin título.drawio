@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iNVCHhVk8GT2Gpy1bYGQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=0;fillColor=#FFE9A8;fontSize=18;fontStyle=1;fontColor=#333333;arcSize=12;" value="Actor" vertex="1">
+          <mxGeometry height="90" width="130" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNVCHhVk8GT2Gpy1bYGQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E69138;shadow=1;fillColor=#FFB366;fontSize=20;fontStyle=1;fontColor=#333333;arcSize=12;strokeWidth=1;" value="Domain Event" vertex="1">
+          <mxGeometry height="100" width="150" x="210" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iNVCHhVk8GT2Gpy1bYGQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=0;fillColor=#D9C2F0;fontSize=18;fontStyle=1;fontColor=#333333;arcSize=12;" value="Policy" vertex="1">
+          <mxGeometry height="90" width="130" x="380" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
